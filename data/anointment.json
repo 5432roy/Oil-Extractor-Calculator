@@ -1,0 +1,4220 @@
+[
+    {
+        "name": [
+            "Alacrity"
+        ],
+        "oils": [
+            "Clear",
+            "Clear",
+            "Clear"
+        ]
+    },
+    {
+        "name": [
+            "Beef"
+        ],
+        "oils": [
+            "Clear",
+            "Clear",
+            "Sepia"
+        ]
+    },
+    {
+        "name": [
+            "Agility"
+        ],
+        "oils": [
+            "Clear",
+            "Sepia",
+            "Sepia"
+        ]
+    },
+    {
+        "name": [
+            "Wisdom of the Glade"
+        ],
+        "oils": [
+            "Clear",
+            "Clear",
+            "Amber"
+        ]
+    },
+    {
+        "name": [
+            "Expertise"
+        ],
+        "oils": [
+            "Sepia",
+            "Sepia",
+            "Sepia"
+        ]
+    },
+    {
+        "name": [
+            "Thief's Craft"
+        ],
+        "oils": [
+            "Clear",
+            "Sepia",
+            "Amber"
+        ]
+    },
+    {
+        "name": [
+            "Prowess"
+        ],
+        "oils": [
+            "Clear",
+            "Clear",
+            "Verdant"
+        ]
+    },
+    {
+        "name": [
+            "Proficiency"
+        ],
+        "oils": [
+            "Sepia",
+            "Sepia",
+            "Amber"
+        ]
+    },
+    {
+        "name": [
+            "Ancestral Knowledge"
+        ],
+        "oils": [
+            "Clear",
+            "Sepia",
+            "Verdant"
+        ]
+    },
+    {
+        "name": [
+            "Might"
+        ],
+        "oils": [
+            "Clear",
+            "Amber",
+            "Amber"
+        ]
+    },
+    {
+        "name": [
+            "Fending"
+        ],
+        "oils": [
+            "Sepia",
+            "Sepia",
+            "Verdant"
+        ]
+    },
+    {
+        "name": [
+            "Hard Knocks"
+        ],
+        "oils": [
+            "Sepia",
+            "Amber",
+            "Amber"
+        ]
+    },
+    {
+        "name": [
+            "Physique"
+        ],
+        "oils": [
+            "Clear",
+            "Clear",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Essence Infusion"
+        ],
+        "oils": [
+            "Clear",
+            "Amber",
+            "Verdant"
+        ]
+    },
+    {
+        "name": [
+            "Spiked Bulwark"
+        ],
+        "oils": [
+            "Clear",
+            "Sepia",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Path of the Savant"
+        ],
+        "oils": [
+            "Sepia",
+            "Amber",
+            "Verdant"
+        ]
+    },
+    {
+        "name": [
+            "Path of the Warrior"
+        ],
+        "oils": [
+            "Amber",
+            "Amber",
+            "Amber"
+        ]
+    },
+    {
+        "name": [
+            "Path of the Hunter"
+        ],
+        "oils": [
+            "Clear",
+            "Verdant",
+            "Verdant"
+        ]
+    },
+    {
+        "name": [
+            "Righteous Decree"
+        ],
+        "oils": [
+            "Sepia",
+            "Sepia",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Ironwood"
+        ],
+        "oils": [
+            "Clear",
+            "Amber",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Fusillade"
+        ],
+        "oils": [
+            "Sepia",
+            "Verdant",
+            "Verdant"
+        ]
+    },
+    {
+        "name": [
+            "Quickstep"
+        ],
+        "oils": [
+            "Amber",
+            "Amber",
+            "Verdant"
+        ]
+    },
+    {
+        "name": [
+            "Weathered Hunter"
+        ],
+        "oils": [
+            "Sepia",
+            "Amber",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Cloth and Chain"
+        ],
+        "oils": [
+            "Clear",
+            "Clear",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Robust"
+        ],
+        "oils": [
+            "Clear",
+            "Verdant",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Aspect of the Eagle"
+        ],
+        "oils": [
+            "Amber",
+            "Verdant",
+            "Verdant"
+        ]
+    },
+    {
+        "name": [
+            "Dynamo"
+        ],
+        "oils": [
+            "Clear",
+            "Sepia",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Decay Ward"
+        ],
+        "oils": [
+            "Sepia",
+            "Verdant",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Thrill Killer"
+        ],
+        "oils": [
+            "Amber",
+            "Amber",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Instinct"
+        ],
+        "oils": [
+            "Sepia",
+            "Sepia",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Spirit Void"
+        ],
+        "oils": [
+            "Verdant",
+            "Verdant",
+            "Verdant"
+        ]
+    },
+    {
+        "name": [
+            "Poisonous Fangs"
+        ],
+        "oils": [
+            "Clear",
+            "Amber",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Saboteur"
+        ],
+        "oils": [
+            "Clear",
+            "Teal",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Depth Perception"
+        ],
+        "oils": [
+            "Amber",
+            "Verdant",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Elemental Focus"
+        ],
+        "oils": [
+            "Sepia",
+            "Amber",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Deep Wisdom"
+        ],
+        "oils": [
+            "Sepia",
+            "Teal",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Martial Experience"
+        ],
+        "oils": [
+            "Clear",
+            "Verdant",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Fury Bolts"
+        ],
+        "oils": [
+            "Verdant",
+            "Verdant",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Battle Rouse"
+        ],
+        "oils": [
+            "Sepia",
+            "Verdant",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Overprepared"
+        ],
+        "oils": [
+            "Amber",
+            "Amber",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Sanctuary"
+        ],
+        "oils": [
+            "Amber",
+            "Teal",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Harvester of Foes"
+        ],
+        "oils": [
+            "Clear",
+            "Amber",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "Practical Application"
+        ],
+        "oils": [
+            "Clear",
+            "Clear",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Fangs of the Viper"
+        ],
+        "oils": [
+            "Clear",
+            "Teal",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Executioner"
+        ],
+        "oils": [
+            "Amber",
+            "Verdant",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Mind Drinker"
+        ],
+        "oils": [
+            "Verdant",
+            "Teal",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Replenishing Remedies"
+        ],
+        "oils": [
+            "Sepia",
+            "Amber",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "Freedom of Movement"
+        ],
+        "oils": [
+            "Clear",
+            "Sepia",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Dreamer"
+        ],
+        "oils": [
+            "Sepia",
+            "Teal",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Clever Thief"
+        ],
+        "oils": [
+            "Clear",
+            "Verdant",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "Potent Connections"
+        ],
+        "oils": [
+            "Sepia",
+            "Sepia",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Arsonist"
+        ],
+        "oils": [
+            "Verdant",
+            "Verdant",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Relentless"
+        ],
+        "oils": [
+            "Sepia",
+            "Verdant",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "Weapon Artistry"
+        ],
+        "oils": [
+            "Clear",
+            "Amber",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Discord Artisan"
+        ],
+        "oils": [
+            "Amber",
+            "Teal",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Mystic Bulwark"
+        ],
+        "oils": [
+            "Teal",
+            "Teal",
+            "Teal"
+        ]
+    },
+    {
+        "name": [
+            "Shamanistic Fury"
+        ],
+        "oils": [
+            "Sepia",
+            "Amber",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Deep Thoughts"
+        ],
+        "oils": [
+            "Clear",
+            "Verdant",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Prodigal Perfection"
+        ],
+        "oils": [
+            "Clear",
+            "Azure",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Sentinel"
+        ],
+        "oils": [
+            "Verdant",
+            "Teal",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Bastion Breaker"
+        ],
+        "oils": [
+            "Sepia",
+            "Teal",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "Heavy Draw"
+        ],
+        "oils": [
+            "Sepia",
+            "Verdant",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Claws of the Magpie"
+        ],
+        "oils": [
+            "Sepia",
+            "Azure",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Soul Siphon"
+        ],
+        "oils": [
+            "Amber",
+            "Amber",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Escalation"
+        ],
+        "oils": [
+            "Verdant",
+            "Verdant",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "Inspiring Bond"
+        ],
+        "oils": [
+            "Amber",
+            "Teal",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "Hardened Scars"
+        ],
+        "oils": [
+            "Clear",
+            "Teal",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Silent Steps"
+        ],
+        "oils": [
+            "Amber",
+            "Verdant",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Explosive Runes"
+        ],
+        "oils": [
+            "Amber",
+            "Azure",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Steelwood Stance"
+        ],
+        "oils": [
+            "Teal",
+            "Teal",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Efficient Explosives"
+        ],
+        "oils": [
+            "Sepia",
+            "Teal",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Divine Fervour"
+        ],
+        "oils": [
+            "Verdant",
+            "Teal",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "Totemic Zeal"
+        ],
+        "oils": [
+            "Verdant",
+            "Verdant",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Bone Breaker"
+        ],
+        "oils": [
+            "Verdant",
+            "Azure",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Vampirism"
+        ],
+        "oils": [
+            "Amber",
+            "Teal",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Expeditious Munitions"
+        ],
+        "oils": [
+            "Clear",
+            "Azure",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Razor's Edge"
+        ],
+        "oils": [
+            "Verdant",
+            "Teal",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Cannibalistic Rite"
+        ],
+        "oils": [
+            "Teal",
+            "Azure",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Empowered Bond"
+        ],
+        "oils": [
+            "Clear",
+            "Indigo",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "Entrench"
+        ],
+        "oils": [
+            "Sepia",
+            "Azure",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Trial of the Faith"
+        ],
+        "oils": [
+            "Sepia",
+            "Indigo",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "Kinetic Impacts"
+        ],
+        "oils": [
+            "Amber",
+            "Azure",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Elder Power"
+        ],
+        "oils": [
+            "Teal",
+            "Teal",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "High Voltage"
+        ],
+        "oils": [
+            "Amber",
+            "Indigo",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "Successive Detonations"
+        ],
+        "oils": [
+            "Clear",
+            "Clear",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Forceful Skewering"
+        ],
+        "oils": [
+            "Verdant",
+            "Azure",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Slaughter"
+        ],
+        "oils": [
+            "Azure",
+            "Azure",
+            "Azure"
+        ]
+    },
+    {
+        "name": [
+            "Righteous Fury"
+        ],
+        "oils": [
+            "Verdant",
+            "Indigo",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "Circle of Life"
+        ],
+        "oils": [
+            "Clear",
+            "Indigo",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Galvanic Hammer"
+        ],
+        "oils": [
+            "Clear",
+            "Sepia",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Excess Sustenance"
+        ],
+        "oils": [
+            "Teal",
+            "Indigo",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "Surge of Vigour"
+        ],
+        "oils": [
+            "Amber",
+            "Indigo",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Brink of Death"
+        ],
+        "oils": [
+            "Verdant",
+            "Indigo",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Precision"
+        ],
+        "oils": [
+            "Sepia",
+            "Sepia",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Toxic Strikes"
+        ],
+        "oils": [
+            "Clear",
+            "Amber",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Pain Forger"
+        ],
+        "oils": [
+            "Clear",
+            "Violet",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Sacrifice"
+        ],
+        "oils": [
+            "Teal",
+            "Azure",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Entropy"
+        ],
+        "oils": [
+            "Sepia",
+            "Amber",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Grave Intentions"
+        ],
+        "oils": [
+            "Sepia",
+            "Violet",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Blast Waves"
+        ],
+        "oils": [
+            "Clear",
+            "Verdant",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Deadly Draw"
+        ],
+        "oils": [
+            "Sepia",
+            "Verdant",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Bladedancer"
+        ],
+        "oils": [
+            "Amber",
+            "Amber",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Intuition"
+        ],
+        "oils": [
+            "Amber",
+            "Violet",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Burning Brutality"
+        ],
+        "oils": [
+            "Teal",
+            "Indigo",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Warrior Training"
+        ],
+        "oils": [
+            "Clear",
+            "Teal",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Primal Manifestation"
+        ],
+        "oils": [
+            "Amber",
+            "Verdant",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Spinecruncher"
+        ],
+        "oils": [
+            "Verdant",
+            "Violet",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Smashing Strikes"
+        ],
+        "oils": [
+            "Azure",
+            "Azure",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Utmost Swiftness"
+        ],
+        "oils": [
+            "Sepia",
+            "Teal",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Farsight"
+        ],
+        "oils": [
+            "Verdant",
+            "Verdant",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Whirling Barrier"
+        ],
+        "oils": [
+            "Amber",
+            "Teal",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Unstable Munitions"
+        ],
+        "oils": [
+            "Teal",
+            "Violet",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Powerful Bond"
+        ],
+        "oils": [
+            "Indigo",
+            "Indigo",
+            "Indigo"
+        ]
+    },
+    {
+        "name": [
+            "From the Shadows"
+        ],
+        "oils": [
+            "Clear",
+            "Azure",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Hatchet Master"
+        ],
+        "oils": [
+            "Verdant",
+            "Teal",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Clever Construction"
+        ],
+        "oils": [
+            "Sepia",
+            "Azure",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Utmost Might"
+        ],
+        "oils": [
+            "Amber",
+            "Azure",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Wandslinger"
+        ],
+        "oils": [
+            "Teal",
+            "Teal",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Courage"
+        ],
+        "oils": [
+            "Azure",
+            "Violet",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Winter's Embrace"
+        ],
+        "oils": [
+            "Clear",
+            "Indigo",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Relentless Pursuit"
+        ],
+        "oils": [
+            "Sepia",
+            "Indigo",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Flash Freeze"
+        ],
+        "oils": [
+            "Verdant",
+            "Azure",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Flaying"
+        ],
+        "oils": [
+            "Clear",
+            "Violet",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Fearsome Force"
+        ],
+        "oils": [
+            "Teal",
+            "Azure",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Glacial Cage"
+        ],
+        "oils": [
+            "Verdant",
+            "Indigo",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Harpooner"
+        ],
+        "oils": [
+            "Teal",
+            "Indigo",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Redemption"
+        ],
+        "oils": [
+            "Sepia",
+            "Violet",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Utmost Intellect"
+        ],
+        "oils": [
+            "Amber",
+            "Violet",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Enigmatic Defence"
+        ],
+        "oils": [
+            "Violet",
+            "Violet",
+            "Violet"
+        ]
+    },
+    {
+        "name": [
+            "Butchery"
+        ],
+        "oils": [
+            "Verdant",
+            "Violet",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Holy Dominion"
+        ],
+        "oils": [
+            "Azure",
+            "Azure",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Static Blows"
+        ],
+        "oils": [
+            "Teal",
+            "Violet",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Unfaltering"
+        ],
+        "oils": [
+            "Indigo",
+            "Indigo",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Light Eater"
+        ],
+        "oils": [
+            "Azure",
+            "Violet",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Bannerman"
+        ],
+        "oils": [
+            "Indigo",
+            "Violet",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Shaper"
+        ],
+        "oils": [
+            "Clear",
+            "Crimson",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Annihilation"
+        ],
+        "oils": [
+            "Clear",
+            "Clear",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Ash"
+        ],
+        "oils": [
+            "Sepia",
+            "Crimson",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [],
+        "oils": [
+            "Frost",
+            "and",
+            "Storm"
+        ]
+    },
+    {
+        "name": [
+            "Testudo"
+        ],
+        "oils": [
+            "Clear",
+            "Sepia",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Lightning Walker"
+        ],
+        "oils": [
+            "Sepia",
+            "Sepia",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Nimbleness"
+        ],
+        "oils": [
+            "Amber",
+            "Crimson",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Aspect of the Lynx"
+        ],
+        "oils": [
+            "Violet",
+            "Violet",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Exceptional Performance"
+        ],
+        "oils": [
+            "Clear",
+            "Amber",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Cleaving"
+        ],
+        "oils": [
+            "Sepia",
+            "Amber",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Arcane Focus"
+        ],
+        "oils": [
+            "Verdant",
+            "Crimson",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Combat Stamina"
+        ],
+        "oils": [
+            "Clear",
+            "Verdant",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Will of Blades"
+        ],
+        "oils": [
+            "Sepia",
+            "Verdant",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Divine Fury"
+        ],
+        "oils": [
+            "Amber",
+            "Amber",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Heartseeker"
+        ],
+        "oils": [
+            "Teal",
+            "Crimson",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Arcane Guarding"
+        ],
+        "oils": [
+            "Clear",
+            "Teal",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Rampart"
+        ],
+        "oils": [
+            "Amber",
+            "Verdant",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Divine Judgement"
+        ],
+        "oils": [
+            "Sepia",
+            "Teal",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Trickery"
+        ],
+        "oils": [
+            "Verdant",
+            "Verdant",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Defiance"
+        ],
+        "oils": [
+            "Amber",
+            "Teal",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Harrier"
+        ],
+        "oils": [
+            "Azure",
+            "Crimson",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Twin Terrors"
+        ],
+        "oils": [
+            "Clear",
+            "Azure",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Enigmatic Reach"
+        ],
+        "oils": [
+            "Verdant",
+            "Teal",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Primal Spirit"
+        ],
+        "oils": [
+            "Sepia",
+            "Azure",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Dance of Blades"
+        ],
+        "oils": [
+            "Indigo",
+            "Crimson",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Assured Strike"
+        ],
+        "oils": [
+            "Clear",
+            "Indigo",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Ambidexterity"
+        ],
+        "oils": [
+            "Amber",
+            "Azure",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Warrior's Blood"
+        ],
+        "oils": [
+            "Teal",
+            "Teal",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Mark the Prey"
+        ],
+        "oils": [
+            "Sepia",
+            "Indigo",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Safeguard"
+        ],
+        "oils": [
+            "Verdant",
+            "Azure",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Infused Flesh"
+        ],
+        "oils": [
+            "Amber",
+            "Indigo",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Light of Divinity"
+        ],
+        "oils": [
+            "Violet",
+            "Crimson",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Conjured Barrier"
+        ],
+        "oils": [
+            "Verdant",
+            "Indigo",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Acuity"
+        ],
+        "oils": [
+            "Clear",
+            "Violet",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Finesse"
+        ],
+        "oils": [
+            "Teal",
+            "Azure",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Mental Rapidity"
+        ],
+        "oils": [
+            "Sepia",
+            "Violet",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Forethought"
+        ],
+        "oils": [
+            "Teal",
+            "Indigo",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Revelry"
+        ],
+        "oils": [
+            "Amber",
+            "Violet",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Aggressive Bastion"
+        ],
+        "oils": [
+            "Verdant",
+            "Violet",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Sanctity"
+        ],
+        "oils": [
+            "Azure",
+            "Azure",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Essence Sap"
+        ],
+        "oils": [
+            "Teal",
+            "Violet",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Undertaker"
+        ],
+        "oils": [
+            "Indigo",
+            "Indigo",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Adamant"
+        ],
+        "oils": [
+            "Azure",
+            "Violet",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Brand Equity"
+        ],
+        "oils": [
+            "Indigo",
+            "Violet",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Coldhearted Calculation"
+        ],
+        "oils": [
+            "Crimson",
+            "Crimson",
+            "Crimson"
+        ]
+    },
+    {
+        "name": [
+            "Arcanist's Dominion"
+        ],
+        "oils": [
+            "Clear",
+            "Crimson",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Eagle Eye"
+        ],
+        "oils": [
+            "Clear",
+            "Clear",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Storm Weaver"
+        ],
+        "oils": [
+            "Sepia",
+            "Crimson",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Berserking"
+        ],
+        "oils": [
+            "Clear",
+            "Sepia",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Potency of Will"
+        ],
+        "oils": [
+            "Sepia",
+            "Sepia",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Coordination"
+        ],
+        "oils": [
+            "Amber",
+            "Crimson",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Graceful Assault"
+        ],
+        "oils": [
+            "Violet",
+            "Violet",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Brinkmanship"
+        ],
+        "oils": [
+            "Clear",
+            "Amber",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Fleetfoot"
+        ],
+        "oils": [
+            "Sepia",
+            "Amber",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "One With Nature"
+        ],
+        "oils": [
+            "Verdant",
+            "Crimson",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Blast Radius"
+        ],
+        "oils": [
+            "Clear",
+            "Verdant",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Destroyer"
+        ],
+        "oils": [
+            "Sepia",
+            "Verdant",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Divine Wrath"
+        ],
+        "oils": [
+            "Amber",
+            "Amber",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "True Strike"
+        ],
+        "oils": [
+            "Teal",
+            "Crimson",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Wrecking Ball"
+        ],
+        "oils": [
+            "Clear",
+            "Teal",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Titanic Impacts"
+        ],
+        "oils": [
+            "Amber",
+            "Verdant",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Diamond Skin"
+        ],
+        "oils": [
+            "Sepia",
+            "Teal",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Versatility"
+        ],
+        "oils": [
+            "Verdant",
+            "Verdant",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Juggernaut"
+        ],
+        "oils": [
+            "Amber",
+            "Teal",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Dervish"
+        ],
+        "oils": [
+            "Azure",
+            "Crimson",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Strong Arm"
+        ],
+        "oils": [
+            "Clear",
+            "Azure",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Sleight of Hand"
+        ],
+        "oils": [
+            "Verdant",
+            "Teal",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Field Medicine"
+        ],
+        "oils": [
+            "Indigo",
+            "Crimson",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Admonisher"
+        ],
+        "oils": [
+            "Sepia",
+            "Azure",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Split Shot"
+        ],
+        "oils": [
+            "Clear",
+            "Indigo",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Surveillance"
+        ],
+        "oils": [
+            "Sepia",
+            "Indigo",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Amplify"
+        ],
+        "oils": [
+            "Amber",
+            "Azure",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Dazzling Strikes"
+        ],
+        "oils": [
+            "Teal",
+            "Teal",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Seasoned Swordplay"
+        ],
+        "oils": [
+            "Amber",
+            "Indigo",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Explosive Impact"
+        ],
+        "oils": [
+            "Verdant",
+            "Azure",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Panopticon"
+        ],
+        "oils": [
+            "Verdant",
+            "Indigo",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Fire Walker"
+        ],
+        "oils": [
+            "Violet",
+            "Crimson",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Blade Barrier"
+        ],
+        "oils": [
+            "Clear",
+            "Violet",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Mysticism"
+        ],
+        "oils": [
+            "Teal",
+            "Azure",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Melding"
+        ],
+        "oils": [
+            "Sepia",
+            "Violet",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Deep Breaths"
+        ],
+        "oils": [
+            "Teal",
+            "Indigo",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Throatseeker"
+        ],
+        "oils": [
+            "Amber",
+            "Violet",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Frost Walker"
+        ],
+        "oils": [
+            "Verdant",
+            "Violet",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Heart of Darkness"
+        ],
+        "oils": [
+            "Azure",
+            "Azure",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Dark Arts"
+        ],
+        "oils": [
+            "Teal",
+            "Violet",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Ballistics"
+        ],
+        "oils": [
+            "Azure",
+            "Violet",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Serpentine Spellslinger"
+        ],
+        "oils": [
+            "Indigo",
+            "Violet",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Essence Extraction"
+        ],
+        "oils": [
+            "Crimson",
+            "Crimson",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Retribution"
+        ],
+        "oils": [
+            "Clear",
+            "Crimson",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Acrimony"
+        ],
+        "oils": [
+            "Clear",
+            "Black",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Soul Thief"
+        ],
+        "oils": [
+            "Sepia",
+            "Crimson",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Last Rites"
+        ],
+        "oils": [
+            "Sepia",
+            "Black",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Command of Steel"
+        ],
+        "oils": [
+            "Amber",
+            "Crimson",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Magmatic Strikes"
+        ],
+        "oils": [
+            "Amber",
+            "Black",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Hired Killer"
+        ],
+        "oils": [
+            "Violet",
+            "Violet",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Retaliation"
+        ],
+        "oils": [
+            "Verdant",
+            "Crimson",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Righteous Army"
+        ],
+        "oils": [
+            "Verdant",
+            "Black",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Longshot"
+        ],
+        "oils": [
+            "Teal",
+            "Crimson",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Ribcage Crusher"
+        ],
+        "oils": [
+            "Teal",
+            "Black",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Dire Torment"
+        ],
+        "oils": [
+            "Azure",
+            "Crimson",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Gravepact"
+        ],
+        "oils": [
+            "Azure",
+            "Black",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Adjacent Animosity"
+        ],
+        "oils": [
+            "Indigo",
+            "Crimson",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Expert Hunter"
+        ],
+        "oils": [
+            "Indigo",
+            "Black",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Arcing Blows"
+        ],
+        "oils": [
+            "Clear",
+            "Clear",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Disciple of the Unyielding"
+        ],
+        "oils": [
+            "Violet",
+            "Crimson",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Disintegration"
+        ],
+        "oils": [
+            "Violet",
+            "Black",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Blade Master"
+        ],
+        "oils": [
+            "Clear",
+            "Sepia",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Fangs of Frost"
+        ],
+        "oils": [
+            "Sepia",
+            "Sepia",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Counterweight"
+        ],
+        "oils": [
+            "Clear",
+            "Amber",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Destructive Apparatus"
+        ],
+        "oils": [
+            "Sepia",
+            "Amber",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Hunter's Gambit"
+        ],
+        "oils": [
+            "Clear",
+            "Verdant",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Life Raker"
+        ],
+        "oils": [
+            "Sepia",
+            "Verdant",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Arcane Will"
+        ],
+        "oils": [
+            "Amber",
+            "Amber",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Backstabbing"
+        ],
+        "oils": [
+            "Clear",
+            "Teal",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Tempest Blast"
+        ],
+        "oils": [
+            "Amber",
+            "Verdant",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Winter Spirit"
+        ],
+        "oils": [
+            "Sepia",
+            "Teal",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "High Explosives"
+        ],
+        "oils": [
+            "Verdant",
+            "Verdant",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Holy Fire"
+        ],
+        "oils": [
+            "Amber",
+            "Teal",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Force Shaper"
+        ],
+        "oils": [
+            "Clear",
+            "Indigo",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Shaman's Dominion"
+        ],
+        "oils": [
+            "Clear",
+            "Azure",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Perfectionist"
+        ],
+        "oils": [
+            "Verdant",
+            "Teal",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Marked for Death"
+        ],
+        "oils": [
+            "Sepia",
+            "Indigo",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Blade of Cunning"
+        ],
+        "oils": [
+            "Sepia",
+            "Azure",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Deflection"
+        ],
+        "oils": [
+            "Amber",
+            "Indigo",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Searing Heat"
+        ],
+        "oils": [
+            "Amber",
+            "Azure",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Devastating Devices"
+        ],
+        "oils": [
+            "Teal",
+            "Teal",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Vanquisher"
+        ],
+        "oils": [
+            "Verdant",
+            "Indigo",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Forces of Nature"
+        ],
+        "oils": [
+            "Verdant",
+            "Azure",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Tolerance"
+        ],
+        "oils": [
+            "Crimson",
+            "Crimson",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Corruption"
+        ],
+        "oils": [
+            "Crimson",
+            "Black",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Skull Cracking"
+        ],
+        "oils": [
+            "Clear",
+            "Black",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Adder's Touch"
+        ],
+        "oils": [
+            "Sepia",
+            "Black",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Fatal Toxins"
+        ],
+        "oils": [
+            "Clear",
+            "Violet",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Gladiator's Perseverance"
+        ],
+        "oils": [
+            "Teal",
+            "Azure",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Lethality"
+        ],
+        "oils": [
+            "Sepia",
+            "Violet",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Feller of Foes"
+        ],
+        "oils": [
+            "Amber",
+            "Black",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Taste for Blood"
+        ],
+        "oils": [
+            "Amber",
+            "Violet",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Blacksmith's Clout"
+        ],
+        "oils": [
+            "Verdant",
+            "Black",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "King of the Hill"
+        ],
+        "oils": [
+            "Verdant",
+            "Violet",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Bloodletting"
+        ],
+        "oils": [
+            "Azure",
+            "Azure",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Master Sapper"
+        ],
+        "oils": [
+            "Teal",
+            "Black",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Swagger"
+        ],
+        "oils": [
+            "Teal",
+            "Violet",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Malicious Intent"
+        ],
+        "oils": [
+            "Indigo",
+            "Indigo",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Careful Conservationist"
+        ],
+        "oils": [
+            "Indigo",
+            "Black",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Serpent Stance"
+        ],
+        "oils": [
+            "Azure",
+            "Black",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Asylum"
+        ],
+        "oils": [
+            "Indigo",
+            "Violet",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Primeval Force"
+        ],
+        "oils": [
+            "Azure",
+            "Violet",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Death Attunement"
+        ],
+        "oils": [
+            "Clear",
+            "Crimson",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Master Fletcher"
+        ],
+        "oils": [
+            "Sepia",
+            "Crimson",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Claws of the Hawk"
+        ],
+        "oils": [
+            "Violet",
+            "Black",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Explosive Elements"
+        ],
+        "oils": [
+            "Amber",
+            "Crimson",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Merciless Skewering"
+        ],
+        "oils": [
+            "Violet",
+            "Violet",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Lord of the Dead"
+        ],
+        "oils": [
+            "Verdant",
+            "Crimson",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Blunt Trauma"
+        ],
+        "oils": [
+            "Teal",
+            "Crimson",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Runesmith"
+        ],
+        "oils": [
+            "Azure",
+            "Crimson",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Defiled Forces"
+        ],
+        "oils": [
+            "Crimson",
+            "Black",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Disciple of the Forbidden"
+        ],
+        "oils": [
+            "Black",
+            "Black",
+            "Black"
+        ]
+    },
+    {
+        "name": [
+            "Avatar of the Hunt"
+        ],
+        "oils": [
+            "Clear",
+            "Opalescent",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Prism Weave"
+        ],
+        "oils": [
+            "Sepia",
+            "Opalescent",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Indomitable Army"
+        ],
+        "oils": [
+            "Violet",
+            "Crimson",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Fatal Blade"
+        ],
+        "oils": [
+            "Amber",
+            "Opalescent",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Lava Lash"
+        ],
+        "oils": [
+            "Clear",
+            "Clear",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Atrophy"
+        ],
+        "oils": [
+            "Clear",
+            "Sepia",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Resourcefulness"
+        ],
+        "oils": [
+            "Verdant",
+            "Opalescent",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Spiritual Command"
+        ],
+        "oils": [
+            "Sepia",
+            "Sepia",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Swift Venoms"
+        ],
+        "oils": [
+            "Clear",
+            "Amber",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Goliath"
+        ],
+        "oils": [
+            "Sepia",
+            "Amber",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "One with the River"
+        ],
+        "oils": [
+            "Teal",
+            "Opalescent",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Enduring Bond"
+        ],
+        "oils": [
+            "Clear",
+            "Verdant",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Brutal Blade"
+        ],
+        "oils": [
+            "Sepia",
+            "Verdant",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Claws of the Falcon"
+        ],
+        "oils": [
+            "Amber",
+            "Amber",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Window of Opportunity"
+        ],
+        "oils": [
+            "Indigo",
+            "Opalescent",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Growth and Decay"
+        ],
+        "oils": [
+            "Clear",
+            "Teal",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Disciple of the Slaughter"
+        ],
+        "oils": [
+            "Amber",
+            "Verdant",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Nightstalker"
+        ],
+        "oils": [
+            "Sepia",
+            "Teal",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Volatile Mines"
+        ],
+        "oils": [
+            "Azure",
+            "Opalescent",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Insightfulness"
+        ],
+        "oils": [
+            "Verdant",
+            "Verdant",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Snowforged"
+        ],
+        "oils": [
+            "Amber",
+            "Teal",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Steeped in the Profane"
+        ],
+        "oils": [
+            "Sepia",
+            "Indigo",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Cleansed Thoughts"
+        ],
+        "oils": [
+            "Clear",
+            "Azure",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Influence"
+        ],
+        "oils": [
+            "Verdant",
+            "Teal",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Presage"
+        ],
+        "oils": [
+            "Amber",
+            "Indigo",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Heart of Thunder"
+        ],
+        "oils": [
+            "Sepia",
+            "Azure",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Devotion"
+        ],
+        "oils": [
+            "Crimson",
+            "Crimson",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Purity of Flesh"
+        ],
+        "oils": [
+            "Clear",
+            "Black",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Doom Cast"
+        ],
+        "oils": [
+            "Amber",
+            "Azure",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Quick Recovery"
+        ],
+        "oils": [
+            "Teal",
+            "Teal",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Crystal Skin"
+        ],
+        "oils": [
+            "Sepia",
+            "Black",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Bravery"
+        ],
+        "oils": [
+            "Violet",
+            "Opalescent",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Breath of Flames"
+        ],
+        "oils": [
+            "Verdant",
+            "Azure",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Veteran Soldier"
+        ],
+        "oils": [
+            "Teal",
+            "Indigo",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Fervour"
+        ],
+        "oils": [
+            "Amber",
+            "Black",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Persistence"
+        ],
+        "oils": [
+            "Clear",
+            "Violet",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Profane Chemistry"
+        ],
+        "oils": [
+            "Verdant",
+            "Black",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Heart of Flame"
+        ],
+        "oils": [
+            "Teal",
+            "Azure",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Written in Blood"
+        ],
+        "oils": [
+            "Sepia",
+            "Violet",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Trick Shot"
+        ],
+        "oils": [
+            "Amber",
+            "Violet",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Cruel Preparation"
+        ],
+        "oils": [
+            "Teal",
+            "Black",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Disemboweling"
+        ],
+        "oils": [
+            "Verdant",
+            "Violet",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Sanctum of Thought"
+        ],
+        "oils": [
+            "Azure",
+            "Azure",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Multishot"
+        ],
+        "oils": [
+            "Indigo",
+            "Black",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Constitution"
+        ],
+        "oils": [
+            "Teal",
+            "Violet",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Arcane Potency"
+        ],
+        "oils": [
+            "Azure",
+            "Black",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Breath of Lightning"
+        ],
+        "oils": [
+            "Azure",
+            "Violet",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Vigour"
+        ],
+        "oils": [
+            "Crimson",
+            "Opalescent",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Way of the Warrior"
+        ],
+        "oils": [
+            "Black",
+            "Black",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Hematophagy"
+        ],
+        "oils": [
+            "Violet",
+            "Black",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Druidic Rite"
+        ],
+        "oils": [
+            "Clear",
+            "Crimson",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Heart and Soul"
+        ],
+        "oils": [
+            "Sepia",
+            "Crimson",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Bloodless"
+        ],
+        "oils": [
+            "Amber",
+            "Crimson",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Born to Fight"
+        ],
+        "oils": [
+            "Violet",
+            "Violet",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Heart of Oak"
+        ],
+        "oils": [
+            "Verdant",
+            "Crimson",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Champion of the Cause"
+        ],
+        "oils": [
+            "Teal",
+            "Crimson",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Survivalist"
+        ],
+        "oils": [
+            "Azure",
+            "Crimson",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Overcharge"
+        ],
+        "oils": [
+            "Crimson",
+            "Black",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Overcharged"
+        ],
+        "oils": [
+            "Clear",
+            "Opalescent",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Master of the Arena"
+        ],
+        "oils": [
+            "Sepia",
+            "Opalescent",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Mystic Talents"
+        ],
+        "oils": [
+            "Amber",
+            "Opalescent",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Fingers of Frost"
+        ],
+        "oils": [
+            "Violet",
+            "Crimson",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Hearty"
+        ],
+        "oils": [
+            "Verdant",
+            "Opalescent",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Herbalism"
+        ],
+        "oils": [
+            "Teal",
+            "Opalescent",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Natural Remedies"
+        ],
+        "oils": [
+            "Indigo",
+            "Opalescent",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Blood Siphon"
+        ],
+        "oils": [
+            "Azure",
+            "Opalescent",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Crackling Speed"
+        ],
+        "oils": [
+            "Black",
+            "Opalescent",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Leadership"
+        ],
+        "oils": [
+            "Violet",
+            "Opalescent",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Arcane Expanse"
+        ],
+        "oils": [
+            "Crimson",
+            "Crimson",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Endurance"
+        ],
+        "oils": [
+            "Clear",
+            "Black",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Faith and Steel"
+        ],
+        "oils": [
+            "Sepia",
+            "Black",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Measured Fury"
+        ],
+        "oils": [
+            "Amber",
+            "Black",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Deadly Inclinations"
+        ],
+        "oils": [
+            "Verdant",
+            "Black",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Savage Wounds"
+        ],
+        "oils": [
+            "Teal",
+            "Black",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Season of Ice"
+        ],
+        "oils": [
+            "Indigo",
+            "Black",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Reflexes"
+        ],
+        "oils": [
+            "Azure",
+            "Black",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Inexorable"
+        ],
+        "oils": [
+            "Crimson",
+            "Opalescent",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Stamina"
+        ],
+        "oils": [
+            "Black",
+            "Black",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Arcane Capacitor"
+        ],
+        "oils": [
+            "Violet",
+            "Black",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Tireless"
+        ],
+        "oils": [
+            "Opalescent",
+            "Opalescent",
+            "Opalescent"
+        ]
+    },
+    {
+        "name": [
+            "Arcane Sanctuary"
+        ],
+        "oils": [
+            "Clear",
+            "Silver",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Wasting"
+        ],
+        "oils": [
+            "Sepia",
+            "Silver",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Savagery"
+        ],
+        "oils": [
+            "Crimson",
+            "Black",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Mana Flows"
+        ],
+        "oils": [
+            "Clear",
+            "Opalescent",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Arcane Chemistry"
+        ],
+        "oils": [
+            "Amber",
+            "Silver",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Art of the Gladiator"
+        ],
+        "oils": [
+            "Sepia",
+            "Opalescent",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Instability"
+        ],
+        "oils": [
+            "Verdant",
+            "Silver",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Dirty Techniques"
+        ],
+        "oils": [
+            "Amber",
+            "Opalescent",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Watchtowers"
+        ],
+        "oils": [
+            "Indigo",
+            "Silver",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Foresight"
+        ],
+        "oils": [
+            "Verdant",
+            "Opalescent",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Breath of Rime"
+        ],
+        "oils": [
+            "Teal",
+            "Silver",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Lust for Carnage"
+        ],
+        "oils": [
+            "Teal",
+            "Opalescent",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Frenetic"
+        ],
+        "oils": [
+            "Azure",
+            "Silver",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Master of Blades"
+        ],
+        "oils": [
+            "Azure",
+            "Opalescent",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Piercing Shots"
+        ],
+        "oils": [
+            "Black",
+            "Opalescent",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Thick Skin"
+        ],
+        "oils": [
+            "Violet",
+            "Silver",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Dismembering"
+        ],
+        "oils": [
+            "Violet",
+            "Opalescent",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Infused"
+        ],
+        "oils": [
+            "Crimson",
+            "Silver",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Heart of Ice"
+        ],
+        "oils": [
+            "Crimson",
+            "Opalescent",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Inveterate"
+        ],
+        "oils": [
+            "Black",
+            "Black",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Blood Drinker"
+        ],
+        "oils": [
+            "Opalescent",
+            "Opalescent",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Vitality Void"
+        ],
+        "oils": [
+            "Clear",
+            "Silver",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Natural Authority"
+        ],
+        "oils": [
+            "Sepia",
+            "Silver",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Ethereal Feast"
+        ],
+        "oils": [
+            "Amber",
+            "Silver",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Ravenous Horde"
+        ],
+        "oils": [
+            "Verdant",
+            "Silver",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Essence Surge"
+        ],
+        "oils": [
+            "Teal",
+            "Silver",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Golem Commander"
+        ],
+        "oils": [
+            "Azure",
+            "Silver",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Discipline and Training"
+        ],
+        "oils": [
+            "Black",
+            "Silver",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Assassination"
+        ],
+        "oils": [
+            "Black",
+            "Opalescent",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Heart of the Warrior"
+        ],
+        "oils": [
+            "Violet",
+            "Silver",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Void Barrier"
+        ],
+        "oils": [
+            "Crimson",
+            "Silver",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Skittering Runes"
+        ],
+        "oils": [
+            "Opalescent",
+            "Silver",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Barbarism"
+        ],
+        "oils": [
+            "Opalescent",
+            "Opalescent",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Soul of Steel"
+        ],
+        "oils": [
+            "Clear",
+            "Golden",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Steadfast"
+        ],
+        "oils": [
+            "Sepia",
+            "Golden",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Vengeant Cascade"
+        ],
+        "oils": [
+            "Amber",
+            "Golden",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Anointed Flesh"
+        ],
+        "oils": [
+            "Indigo",
+            "Golden",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Unnatural Calm"
+        ],
+        "oils": [
+            "Verdant",
+            "Golden",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Golem's Blood"
+        ],
+        "oils": [
+            "Teal",
+            "Golden",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Tranquility"
+        ],
+        "oils": [
+            "Azure",
+            "Golden",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Revenge of the Hunted"
+        ],
+        "oils": [
+            "Black",
+            "Silver",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Aspect of Stone"
+        ],
+        "oils": [
+            "Violet",
+            "Golden",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Tenacity"
+        ],
+        "oils": [
+            "Crimson",
+            "Golden",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Sovereignty"
+        ],
+        "oils": [
+            "Silver",
+            "Silver",
+            "Silver"
+        ]
+    },
+    {
+        "name": [
+            "Tribal Fury"
+        ],
+        "oils": [
+            "Opalescent",
+            "Silver",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Crusader"
+        ],
+        "oils": [
+            "Black",
+            "Golden",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Spiritual Aid"
+        ],
+        "oils": [
+            "Silver",
+            "Silver",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Charisma"
+        ],
+        "oils": [
+            "Opalescent",
+            "Golden",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Prismatic Skin"
+        ],
+        "oils": [
+            "Silver",
+            "Golden",
+            "Golden"
+        ]
+    },
+    {
+        "name": [
+            "Whispers of Doom"
+        ],
+        "oils": [
+            "Golden",
+            "Golden",
+            "Golden"
+        ]
+    }
+]
