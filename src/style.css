@@ -1,77 +1,65 @@
 body {
-	font-family: Arial, sans-serif;
-    background-color: #1E1E1E;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 h1 {
-	text-align: center;
-	margin-top: 50px;
-    color: white;
-}
-
-#unit {
-    color: yellow;
     text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
 }
 
-ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-between;
+#content {
+    display: flex;
 }
 
-li {
-	width: calc(20% - 10px);
-	margin-bottom: 20px;
-    color: wheat;
+#items-list {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: 100%;
+    background-color: #888;
+    box-sizing: border-box;
+    max-width: 400px;
 }
 
-.slider-container {
-	position: relative;
+#rest-of-page {
+    flex-grow: 1;
 }
 
-.slider {
-	width: 100%;
-	height: 10px;
-	border-radius: 5px;
-	background: #d3d3d3;
-	outline: none;
-	opacity: 0.7;
-	-webkit-transition: .2s;
-	transition: opacity .2s;
-	margin-bottom: 5px;
+.Oil {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
 }
 
-.slider:hover {
-	opacity: 1;
+.Oil img {
+    height: 30px;
+    margin-right: 10px;
 }
 
-.slider::-webkit-slider-thumb {
-	-webkit-appearance: none;
-	appearance: none;
-	width: 20px;
-	height: 20px;
-	border-radius: 50%;
-	background: #4caf50;
-	cursor: pointer;
+.Oil .input-container {
+    display: flex;
+    align-items: center;
 }
 
-.slider::-moz-range-thumb {
-	width: 20px;
-	height: 20px;
-	border-radius: 50%;
-	background: #4caf50;
-	cursor: pointer;
+.Oil input {
+    margin-left: 10px;
+    background: transparent;
+    border: none;
+    color: #fff;
+    text-align: right;
+    width: 50px;
+    height: 30px;
 }
 
-.slider-value {
-	position: absolute;
-	top: -30px;
-	right: 0;
-	font-size: 12px;
-	font-weight: bold;
-	color: #4caf50;
+.Oil input:focus {
+    outline: none;
+    border: 1px solid #fff;
 }
